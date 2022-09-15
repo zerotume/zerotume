@@ -6,8 +6,11 @@ JavaScript | Python | Express | Flask | Node.js | React | SQL | RESTful | Socket
 
 ## Check my projects if you'd like to see how good I'm doing:
 [swEtsy](https://swetsy-app.herokuapp.com/)
+
 [Doorskid](https://heng-doorskid.herokuapp.com/)
+
 [CatBnB](https://heng-catbnb.herokuapp.com/)
+
 
 ***
 
