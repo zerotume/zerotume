@@ -14,3 +14,6 @@ JavaScript | Python | Express | Flask | Node.js | React | SQL | RESTful | Socket
 ## Github stats
 
 [![Heng's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerotume)](https://github.com/zerotume/github-readme-stats)
+
+## Reach me at:
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
