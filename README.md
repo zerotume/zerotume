@@ -13,4 +13,4 @@ JavaScript | Python | Express | Flask | Node.js | React | SQL | RESTful | Socket
 
 ## Github stats
 
-[!Heng's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerotume)](https://github.com/zerotume/github-readme-stats)
+[![Heng's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerotume)](https://github.com/zerotume/github-readme-stats)
