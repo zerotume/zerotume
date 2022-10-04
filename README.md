@@ -14,8 +14,8 @@
 ## Full Stack Engineer with Technical Stack:
 Javascript | Node.js | Express.js | Python | Flask | SQL | SQLite3 | PostgreSQL | HTML5/CSS3 | React | Redux | Socket.io | Git | Heroku | RESTful | TDD 
 
-Other related Stack:
-- SQL | HTML5 | CSS3 | C# | Unity | Pair Programming
+## Other related Stack:
+SQL | HTML5 | CSS3 | C# | Unity | Pair Programming
 
 ## Check my projects if you'd like to see how good I'm doing:
 [swEtsy](https://swetsy-app.herokuapp.com/)
