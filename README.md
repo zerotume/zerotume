@@ -53,4 +53,4 @@ Other related Stack:
 
 
 # "MEOW!"
-![Meow](https://github.com/ZoeBijl/QueerCats/blob/main/SVG/heart/QueerCatHeart_Pride.svg = 600x600)
+<img src="[drawing.jpg](https://github.com/ZoeBijl/QueerCats/blob/main/SVG/heart/QueerCatHeart_Pride.svg)" alt="Meow!" width="600"/>
