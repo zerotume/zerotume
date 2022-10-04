@@ -41,29 +41,4 @@ SQL | HTML5 | CSS3 | C# | Unity | Pair Programming
 ## End of my Readme profile
 
 Thank you for your attention and time!
-
-<br/><br/><br/><br/><br/><br/>
-<br/><br/><br/><br/><br/><br/>
-<br/><br/><br/><br/><br/><br/>
-<br/><br/><br/><br/><br/><br/>
-## Nothing important under this line
-I'm serious!
-
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
-
-## If you want to continue scrolling down...
-Really continue scrolling down?
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
-## That also okay...
-You might see some secret...
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
-## And...
-It's still a chance to stop...
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
-
-# "MEOW!"
-<img src="https://github.com/ZoeBijl/QueerCats/blob/main/SVG/heart/QueerCatHeart_Pride.svg" alt="Meow!" width="600"/>
+<img src="https://github.com/ZoeBijl/QueerCats/blob/main/SVG/heart/QueerCatHeart_Pride.svg" alt="Meow!" width="300"/>
