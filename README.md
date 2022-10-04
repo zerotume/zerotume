@@ -38,7 +38,7 @@ SQL | HTML5 | CSS3 | C# | Unity | Pair Programming
 
 ***
 
-## End of my Readme profile
+## End of my Readme Profile
 Thank you for your attention and time!<br /><br /><br />
 
 <img src="https://github.com/ZoeBijl/QueerCats/blob/main/SVG/heart/QueerCatHeart_Pride.svg" alt="Meow!" width="100"/>
