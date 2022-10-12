@@ -1,4 +1,4 @@
-# First Name: Heng; Last Name: Wang; Nick Name: Mizuho
+# First Name: Heng; Last Name: Wang; Nickname: Mizuho
 ***
 
 ## Who am I?
