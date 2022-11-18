@@ -12,7 +12,7 @@
 - Gamer | Weightlift Lover | Cat Lover | Music & Song composer
 
 ## Full Stack Engineer with Technical Stack:
-Javascript | Node.js | Express.js | Python | Flask | SQL | SQLite3 | PostgreSQL | HTML5/CSS3 | React | Redux | Socket.io | Git | Heroku | RESTful | TDD 
+JavaScript | Node.js | Express.js | Python | Flask | SQL | SQLite3 | PostgreSQL | HTML5/CSS3 | React | Redux | Socket.io | Git | Heroku | RESTful | TDD 
 
 ## Other related Stack:
 HTML5 | CSS3 | C# | Unity | Pair Programming
