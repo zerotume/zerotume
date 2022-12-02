@@ -38,6 +38,13 @@ HTML5 | CSS3 | C# | Unity | Pair Programming
 
 ***
 
+# My tech blog articles!
+
+[Boyer-Moore Voting Algorithm](https://www.linkedin.com/pulse/leetcode-169-voting-algorithm-what-happened-heng-wang/)
+
+[Dynamic Proramming(1)](https://www.linkedin.com/pulse/dynamic-programming1-lets-make-simple-learning-after-heng-wang/)
+
+***
 ## End of my Readme Profile
 Thank you for your attention and time!<br /><br /><br />
 
