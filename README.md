@@ -1,4 +1,4 @@
-# Feel free to xall my Nickname/Preferred name: Mizuho!
+# Feel free to call my Nickname/Preferred name: Mizuho!
 ***
 
 ## Who am I?
@@ -29,7 +29,7 @@ HTML5 | CSS3 | C# | Unity | Pair Programming
 
 ## Github stats
 
-[![Heng's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerotume)](https://github.com/zerotume/github-readme-stats)
+[![Mizuho's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerotume)](https://github.com/zerotume/github-readme-stats)
 
 ## Reach me at:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heng-wang-547525234/)
