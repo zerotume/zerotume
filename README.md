@@ -43,6 +43,14 @@ HTML5 | CSS3 | C# | Unity | Pair Programming
 [Dynamic Proramming(1)](https://www.linkedin.com/pulse/dynamic-programming1-lets-make-simple-learning-after-heng-wang/)
 
 ***
+<img src="https://github.com/ZoeBijl/QueerCats/blob/main/SVG/heart/QueerCatHeart_Pride.svg" alt="Meow!" width="100"/>
+<img src="https://github.com/ZoeBijl/QueerCats/blob/main/SVG/heart/QueerCatHeart_Lesbian.svg" alt="Meowwwww!" width="100"/>
+<img src="https://github.com/ZoeBijl/QueerCats/blob/main/SVG/heart/QueerCatHeart_Intersex.svg" alt="Meowwwww!" width="100"/>
+<img src="https://github.com/ZoeBijl/QueerCats/blob/main/SVG/heart/QueerCatHeart_Trans.svg" alt="Meowww!" width="100"/>
+<img src="https://github.com/ZoeBijl/QueerCats/blob/main/SVG/heart/QueerCatHeart_Autism.svg" alt="Meowwwww!" width="100"/>
+
+
+***
 ## End of my Readme Profile
 Thank you for your attention and time!<br /><br /><br />
 
